@@ -51,6 +51,7 @@ for seq in sequences:
 
 ```
 
+💥 **Falcon LLMs require PyTorch 2.0 for use with `transformers`!**
 
 
 # Model Card for Falcon-7B
