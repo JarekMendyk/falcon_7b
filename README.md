@@ -126,7 +126,7 @@ Falcon-7B was trained on 1,500B tokens of [RefinedWeb](https://huggingface.co/da
 
 | **Data source**    | **Fraction** | **Tokens** | **Sources**                       |
 |--------------------|--------------|------------|-----------------------------------|
-| RefinedWeb-English | 79%          | 1,185B     | massive web crawl                 |
+| [RefinedWeb-English](https://huggingface.co/datasets/tiiuae/falcon-refinedweb) | 79%          | 1,185B     | massive web crawl                 |
 | Books              | 7%           | 110B       |                                   |
 | Conversations      | 6%           | 85B        | Reddit, StackOverflow, HackerNews |
 | Code               | 3%           | 45B        |                                   |
