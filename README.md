@@ -1,9 +1,5 @@
 ---
-datasets:
-- tiiuae/falcon-refinedweb
-language:
-- en
-inference: false
+license: tii-falcon-llm
 ---
 
 # 🚀 Falcon-7B
@@ -210,4 +206,3 @@ Falcon-7B is made available under the [TII Falcon LLM License](https://huggingfa
 
 ## Contact
 falconllm@tii.ae
-
