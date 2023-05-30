@@ -10,7 +10,7 @@ inference: false
 
 **Falcon-7B is a 7B parameters causal decoder-only model built by [TII](https://www.tii.ae) and trained on 1,500B tokens of [RefinedWeb](https://huggingface.co/datasets/tiiuae/falcon-refinedweb) enhanced with curated corpora. It is made available under the [TII Falcon LLM License](https://huggingface.co/tiiuae/falcon-7b/blob/main/LICENSE.txt).**
 
-*Paper coming soon 😊.*
+*Paper coming soon* 😊.
 
 ## Why use Falcon-7B?
 
@@ -198,7 +198,7 @@ Falcon-7B was trained a custom distributed training codebase, Gigatron. It uses 
 
 ## Citation
 
-*Paper coming soon 😊.*
+*Paper coming soon* 😊.
 
 ## License
 
