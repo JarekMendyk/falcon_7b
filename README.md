@@ -1,4 +1,9 @@
 ---
+datasets:
+- tiiuae/falcon-refinedweb
+language:
+- en
+inference: false
 license: apache-2.0
 ---
 
