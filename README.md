@@ -139,7 +139,7 @@ Falcon-7B was trained on 1,500B tokens of [RefinedWeb](https://huggingface.co/da
 | Conversations      | 6%           | 85B        | Reddit, StackOverflow, HackerNews |
 | Code               | 3%           | 45B        |                                   |
 | RefinedWeb-French  | 3%           | 45B        | massive web crawl                 |
-| Technical          | 2%           | 30B        | arXiv, PubMed, UPSTO, etc.        |
+| Technical          | 2%           | 30B        | arXiv, PubMed, USPTO, etc.        |
 
 
 The data was tokenized with the Falcon-[7B](https://huggingface.co/tiiuae/falcon-7b)/[40B](https://huggingface.co/tiiuae/falcon-40b) tokenizer.
