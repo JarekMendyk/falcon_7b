@@ -13,6 +13,9 @@ license: apache-2.0
 
 *Paper coming soon* 😊.
 
+🤗 To get started with Falcon (inference, finetuning, quantization, etc.), we recommend reading [this great blogpost fron HF](https://huggingface.co/blog/falcon)!
+
+
 ## Why use Falcon-7B?
 
 * **It outperforms comparable open-source models** (e.g., [MPT-7B](https://huggingface.co/mosaicml/mpt-7b), [StableLM](https://github.com/Stability-AI/StableLM), [RedPajama](https://huggingface.co/togethercomputer/RedPajama-INCITE-Base-7B-v0.1) etc.), thanks to being trained on 1,500B tokens of [RefinedWeb](https://huggingface.co/datasets/tiiuae/falcon-refinedweb) enhanced with curated corpora. See the [OpenLLM Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard).
@@ -54,6 +57,9 @@ for seq in sequences:
 
 💥 **Falcon LLMs require PyTorch 2.0 for use with `transformers`!**
 
+For fast inference with Falcon, check-out [Text Generation Inference](https://github.com/huggingface/text-generation-inference)! Read more in this [blogpost]((https://huggingface.co/blog/falcon). 
+
+You will need **at least 16GB of memory** to swiftly run inference with Falcon-7B.
 
 # Model Card for Falcon-7B
 
